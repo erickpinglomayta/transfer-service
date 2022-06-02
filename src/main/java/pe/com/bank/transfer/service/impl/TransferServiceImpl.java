@@ -2,7 +2,6 @@ package pe.com.bank.transfer.service.impl;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
 import pe.com.bank.transfer.client.AccountRestClient;
 import pe.com.bank.transfer.client.TransactionRestClient;
 import pe.com.bank.transfer.entity.AccountDTO;
